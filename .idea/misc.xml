@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/drawable/bg_loading.xml" value="0.1955" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/drawable/ic_activity.xml" value="0.1955" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/activity_main2.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/activity_multi.xml" value="0.25" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/activity_multi_download.xml" value="0.2545289855072464" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/activity_test.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/content_main.xml" value="0.3645833333333333" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/dialog_download_num.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/dialog_msg.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/download_item.xml" value="0.358695652173913" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/fragment_private_file.xml" value="0.17806484295845998" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/item_file_list.xml" value="0.5" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/item_group_download.xml" value="0.17255434782608695" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/item_private.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/item_private_list.xml" value="0.5" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/item_simple_download.xml" value="0.1" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_bar.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_child_state.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_error_temp.xml" value="0.358695652173913" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_item_progress.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_progress_content.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/layout/layout_svg_text.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/menu/menu_highest_priority.xml" value="0.1875" />
+        <entry key="..\:/github_project/MyProject/AriaTest/app/src/main/res/menu/menu_main.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

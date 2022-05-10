@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background_color">#E5E5E5</color>
+
+    <color name="icon_color">#FF4081</color>
+    <color name="text_black">#2B2B2B</color>
+    <color name="text_grey">#55544F</color>
+    <color name="icon_black">#2B2B2B</color>
+    <color name="bg_grey">#efefef</color>
+    <color name="bg_line">#597F96</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="download_list_pattern_btn_blue">@color/colorPrimary</color>
+    <color name="download_list_pattern_btn_red">#FF4081</color>
+    <color name="download_list_pattern_lock_cell_stroke_color">#597F96</color>
+    <color name="download_list_background_color">@color/white</color>
+
+    <color name="download_list_private_button_bg_blue">@color/colorPrimary</color>
+
+    <color name="download_list_confirm_button_disabled_color">@color/text_grey</color>
+
+    <color name="download_list_pattern_btn_gray">@color/text_grey</color>
+
+
+
+
+</resources>
